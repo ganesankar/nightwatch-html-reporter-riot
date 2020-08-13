@@ -22,7 +22,9 @@ Edit ```html-report.hbs``` to customize the look and feel of the report.
 ## Resources
 - [Nightwatch.js Developer Guide - Custom reporter](http://nightwatchjs.org/guide#custom-reporter)
 - [Handlebars Documentation](http://handlebarsjs.com)
-
+- [Siimple CSS Framwork Documentation](https://siimple.xyz/)
+- [ansi_up.js Documentation](https://github.com/drudru/ansi_up)
+- [Chart.Js Documentation](https://www.chartjs.org/docs/latest/)
 
 
 ## License
