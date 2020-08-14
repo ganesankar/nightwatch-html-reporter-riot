@@ -1,4 +1,7 @@
-![Image of Nightwatch Owl](http://nightwatchjs.org/img/logo-nightwatch.png)
+![Image of Nightwatch Owl](https://ganesankar.github.io/nightwatch-html-reporter-riot/nightwatch-riot.jpg)
+
+===
+
 Nightwatch HTML Reporter Riot
 ==========
 A custom html reporter for [Nightwatch.js](http://nightwatchjs.org/), a  browser automation testing framework, build using RiotJs, Siimple CSS Framwork, ansi_up.js and ChartJS, will work as standalone in both offline and online mode integrated with nodejs and handlebarjs
