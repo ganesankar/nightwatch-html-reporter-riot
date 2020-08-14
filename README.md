@@ -29,6 +29,11 @@ Edit ```html-report.hbs``` to customize the look and feel of the report.
 - [ansi_up.js Documentation](https://github.com/drudru/ansi_up)
 - [Chart.Js Documentation](https://www.chartjs.org/docs/latest/)
 
+## demo
+- [CDN Mode](https://ganesankar.github.io/nightwatch-html-reporter-riot/riotjs-sample-report.html)
+- [Offline Mode](https://ganesankar.github.io/nightwatch-html-reporter-riot/riotjs-sample-report-offline.html)
+
+
 
 ## License
 
